@@ -8,7 +8,10 @@
         <param name="android-package" value="org.apache.cordova.contacts.ContactManager" />
     </feature>
     <feature name="techoStorage">
-        <param name="android-package" value="com.techostic.nexttalk.plugin.StoragePlugin" />
+        <param name="android-package" value="com.techostic.nexttime.plugin.StoragePlugin" />
+    </feature>
+    <feature name="Notification">
+        <param name="android-package" value="org.apache.cordova.dialogs.Notification" />
     </feature>
     <name>Next Talk</name>
     <description>
